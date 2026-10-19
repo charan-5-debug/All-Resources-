@@ -1,2 +1,2 @@
 # All-Resources-
-Here all the useful resources are available for students to learn computer languages
+Here all the useful resources are available for students to learn web developement 
